@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis and Data Visualization Using Python
+# E-Commerce Sales Analysis
 
 ## Overview
 This project explores e-commerce sales data using Python and visualizes trends in monthly profit and product sales. It also demonstrates statistical visualizations using Seaborn's built-in `tips` dataset.
