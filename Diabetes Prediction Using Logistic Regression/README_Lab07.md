@@ -1,7 +1,7 @@
 # Diabetes Prediction Using Logistic Regression
 
 ## Overview
-This lab builds a binary classification model to predict the diabetes outcome using selected health-related features from `diabetes.csv`.
+This code builds a binary classification model to predict the diabetes outcome using selected health-related features from `diabetes.csv`.
 
 ## Dataset
 - `diabetes.csv` — dataset used to train and evaluate the model.
@@ -37,7 +37,7 @@ pip install pandas scikit-learn matplotlib seaborn
 ```
 
 ## How to Run
-1. Upload `S25MCAG0109_Lab07.ipynb` and `diabetes.csv` to Google Colab, or place them in your local project directory.
+1. Upload `code.ipynb` and `diabetes.csv` to Google Colab, or place them in your local project directory.
 2. In Google Colab, the notebook expects the dataset at `/content/diabetes.csv`. Update the path if needed.
 3. Run the notebook cells in order.
 
@@ -46,4 +46,3 @@ This is an educational machine-learning exercise, not a medical diagnostic tool.
 
 ## Author
 **Piyush Prakhar**  
-Student ID: `S25MCAG0109`
