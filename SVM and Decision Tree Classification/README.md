@@ -1,11 +1,11 @@
 # SVM and Decision Tree Classification
 
 ## Overview
-This lab implements Support Vector Machine (SVM) and Decision Tree classifiers using built-in scikit-learn functions. It covers preprocessing, feature selection, model training, visualization, and evaluation on two datasets.
+This code implements Support Vector Machine (SVM) and Decision Tree classifiers using built-in scikit-learn functions. It covers preprocessing, feature selection, model training, visualization, and evaluation on two datasets.
 
 ## Datasets
-- `breast-cancer (1).csv` — Breast Cancer Wisconsin (Diagnostic) dataset for SVM preprocessing and classification.
-- `Titanic-Dataset(1).csv` — Titanic survival dataset for Decision Tree preprocessing and classification.
+- `breast-cancer.csv` — Breast Cancer Wisconsin (Diagnostic) dataset for SVM preprocessing and classification.
+- `Titanic-Dataset.csv` — Titanic survival dataset for Decision Tree preprocessing and classification.
 
 Update the file paths in the notebook if you rename either dataset.
 
@@ -48,10 +48,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ## How to Run
-1. Place `SML_Lab09.ipynb` and both CSV datasets in the same folder, or upload them to Google Colab.
+1. Place `code.ipynb` and both CSV datasets in the same folder, or upload them to Google Colab.
 2. Make sure the notebook's dataset paths match the actual filenames.
 3. Run the notebook cells in order.
 
 ## Author
 **Piyush Prakhar**  
-Student ID: `S25MCAG0109`
