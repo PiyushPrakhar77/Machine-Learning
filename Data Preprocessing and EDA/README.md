@@ -1,7 +1,7 @@
-# Data Preprocessing and Exploratory Data Analysis Using Python
+# Data Preprocessing and EDA
 
 ## Overview
-This lab notebook demonstrates common data-preprocessing and exploratory data-analysis (EDA) tasks using Python and Pandas. It works with Titanic, California housing, wine-quality, Iris, and student data.
+This notebook demonstrates common data-preprocessing and exploratory data-analysis (EDA) tasks using Python and Pandas. It works with Titanic, California housing, wine-quality, Iris, and student data.
 
 ## Files
 ### Datasets used by the notebook
@@ -35,7 +35,7 @@ pip install pandas matplotlib scikit-learn
 
 ## How to Run
 1. Place the notebook and the five main CSV datasets in the same directory, or upload them to the location expected by the notebook.
-2. Open `S25MCAG0109_Lab02(1).ipynb` in Google Colab or Jupyter Notebook.
+2. Open `code.ipynb` in Google Colab or Jupyter Notebook.
 3. Update the CSV paths in the notebook if your files are stored elsewhere.
 4. Run the cells in order.
 5. If running outside Google Colab, remove or adapt the `google.colab` Drive-mount cell.
@@ -57,7 +57,3 @@ pip install pandas matplotlib scikit-learn
 - Dataset column names must match those used in the notebook.
 - In the housing statistics cell, the notebook currently references `df_housing.mean`, `df_housing.median`, and `df_housing.mode` without parentheses. Use `df_housing.mean()`, `df_housing.median()`, and `df_housing.mode()` to calculate and display the statistics.
 - The BMI calculation only works if `student-data.csv` contains numeric `weight` and `height` columns.
-
-## Author
-**Piyush Prakhar**  
-Student ID: `S25MCAG0109`
