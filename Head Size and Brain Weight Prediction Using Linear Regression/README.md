@@ -1,7 +1,7 @@
 # Head Size and Brain Weight Prediction
 
 ## Overview
-This lab demonstrates simple linear regression using the Head Brain dataset. It explores the relationship between head size and brain weight, first calculating the regression line manually and then using scikit-learn's `LinearRegression`.
+This demonstrates simple linear regression using the Head Brain dataset. It explores the relationship between head size and brain weight, first calculating the regression line manually and then using scikit-learn's `LinearRegression`.
 
 ## Dataset
 - `headbrain.csv` — contains head-size and brain-weight measurements.
@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib scikit-learn
 ```
 
 ## How to Run
-1. Place `S25MCAG0109_Lab4.ipynb` and `headbrain.csv` in the same working directory, or upload both to Google Colab.
+1. Place `code.ipynb` and `headbrain.csv` in the same working directory, or upload both to Google Colab.
 2. In Google Colab, ensure `headbrain.csv` is available at `/content/headbrain.csv`, as expected by the notebook.
 3. Run the notebook cells in order.
 
@@ -41,4 +41,3 @@ The notebook prints descriptive statistics, regression coefficients, predictions
 
 ## Author
 **Piyush Prakhar**  
-Student ID: `S25MCAG0109`
