@@ -1,7 +1,7 @@
 # Iris Clustering with K-Means and DBSCAN
 
 ## Overview
-This lab applies two unsupervised machine-learning algorithms—K-Means and DBSCAN—to the Iris dataset. It standardizes flower measurements, groups observations into clusters, visualizes the results, and compares the clusters with the known species labels.
+This code applies two unsupervised machine-learning algorithms—K-Means and DBSCAN—to the Iris dataset. It standardizes flower measurements, groups observations into clusters, visualizes the results, and compares the clusters with the known species labels.
 
 ## Dataset Required
 - `Iris.csv` — the notebook loads this file from `/content/Iris.csv` in Google Colab.
@@ -42,7 +42,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 ```
 
 ## How to Run
-1. Place `SML_Lab10.ipynb` and `Iris.csv` in your working directory, or upload both to Google Colab.
+1. Place `code.ipynb` and `Iris.csv` in your working directory, or upload both to Google Colab.
 2. Ensure the CSV file is available at `/content/Iris.csv`, or update the path in the notebook.
 3. Run the notebook cells in order.
 
