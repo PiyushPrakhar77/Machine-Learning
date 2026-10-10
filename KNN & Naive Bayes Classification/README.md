@@ -1,7 +1,7 @@
 # Classification Using KNN and Gaussian Naive Bayes
 
 ## Overview
-This lab demonstrates classification techniques using Python and scikit-learn. It trains a K-Nearest Neighbors (KNN) classifier on the diabetes dataset and a Gaussian Naive Bayes classifier on the Iris dataset, then evaluates the models with classification metrics and confusion-matrix heatmaps.
+This code demonstrates classification techniques using Python and scikit-learn. It trains a K-Nearest Neighbors (KNN) classifier on the diabetes dataset and a Gaussian Naive Bayes classifier on the Iris dataset, then evaluates the models with classification metrics and confusion-matrix heatmaps.
 
 ## Datasets
 The notebook references these CSV files:
@@ -35,7 +35,7 @@ pip install pandas scikit-learn seaborn matplotlib
 ```
 
 ## How to Run
-1. Place `SML_Lab08.ipynb` and the required CSV files in the same working directory, or upload them to Google Colab.
+1. Place `code.ipynb` and the required CSV files in the same working directory, or upload them to Google Colab.
 2. Update the CSV paths in the notebook if needed.
 3. Ensure the diabetes dataset is available as `diabetes.csv` at `/content/diabetes.csv`, or modify the path to match its actual filename.
 4. Run the notebook cells in order.
@@ -46,4 +46,3 @@ pip install pandas scikit-learn seaborn matplotlib
 
 ## Author
 **Piyush Prakhar**  
-Student ID: `S25MCAG0109`
