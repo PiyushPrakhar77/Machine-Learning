@@ -1,7 +1,7 @@
 # Regression Analysis: Bluegills and NIFTY Indices
 
 ## Overview
-This lab explores linear and polynomial regression using two analysis tasks:
+This notebook explores linear and polynomial regression using two analysis tasks:
 1. Modeling the relationship between bluegill fish age and length.
 2. Studying the relationship between Bank Nifty and Energy Nifty opening prices.
 
@@ -35,7 +35,7 @@ pip install pandas numpy matplotlib scikit-learn
 ```
 
 ## How to Run
-1. Place `SML_Lab05.ipynb` and the dataset files in the same folder, or upload them to Google Colab.
+1. Place `code.ipynb` and the dataset files in the same folder, or upload them to Google Colab.
 2. Update the file paths in the notebook if your datasets are stored elsewhere.
 3. Run the notebook cells in order.
 
@@ -43,5 +43,4 @@ pip install pandas numpy matplotlib scikit-learn
 The notebook fits regression models to the bluegills data, compares model errors across polynomial degrees, and evaluates the relationship between Bank Nifty and Energy Nifty opening prices using regression metrics and plots.
 
 ## Author
-**Piyush Prakhar**  
-Student ID: `S25MCAG0109`
+**Piyush Prakhar** 
