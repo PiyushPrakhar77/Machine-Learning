@@ -4,7 +4,7 @@
 This project explores e-commerce sales data using Python and visualizes trends in monthly profit and product sales. It also demonstrates statistical visualizations using Seaborn's built-in `tips` dataset.
 
 ## Project Files
-- `S25MCAG0109_Lab1.ipynb` — Jupyter Notebook containing the analysis and visualizations.
+- `code.ipynb` — Jupyter Notebook containing the analysis and visualizations.
 - `ecommerce_data.csv` — Dataset used for the e-commerce sales charts.
 
 ## Technologies Used
@@ -52,4 +52,3 @@ The notebook generates visualizations for monthly profit, product sales, bill an
 
 ## Author
 **Piyush Prakhar**  
-Student ID: `S25MCAG0109`
